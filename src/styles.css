@@ -1,0 +1,7 @@
+#sub {
+  width: 15em;
+  height: auto;
+  border: 1px rgb(55, 94, 224) dashed;
+  border-radius: 1em;
+  padding: 0.5em;
+}
